@@ -6,7 +6,7 @@ v<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Im
 <table align="center" >
 <tr border="none">
 <td width="66%" align="left">
-  a
+  
 - 🌱 I’m currently learning **C# | .NET**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
