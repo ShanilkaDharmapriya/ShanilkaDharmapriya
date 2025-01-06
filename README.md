@@ -11,7 +11,7 @@ v<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Im
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web Development | Object-Oriented Concepts**
+- 💬 Ask me about **Web Development |OOC**
 
 - 📫 How to reach me **shanilkadharmapriya@gmail.com**
   
