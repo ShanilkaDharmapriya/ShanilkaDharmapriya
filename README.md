@@ -7,11 +7,11 @@ v<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Im
 <tr border="none">
 <td width="66%" align="left">
   
-- 🌱 I’m currently learning **C# | .NET**
+- 🌱 Software Engineering Undergraduate at SLIIT
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 Actively learning Full Stack Development, DevOps, and AI/ML fundamentals
 
-- 💬 Ask me about **Web Development |OOC**
+- 💬 Seeking collaboration opportunities in software development, DevOps or QA
 
 - 📫 How to reach me **shanilkadharmapriya@gmail.com**
   
